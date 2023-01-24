@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto NLW Habits é um App para registros de hábitos diarios.
 
-- [Visite o projeto online](https://github.com/Robsonyk/NLW-Setup)
+- [Visite o projeto online](https://robsonyk.github.io/NLW-Setup/)
 
 
 
